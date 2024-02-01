@@ -1,0 +1,82 @@
+*{
+    font-family: cursive;
+}
+.a1{
+    width: 100%;
+    height: 707px;
+    position: relative;
+    background-image: url(./image/bgimg2.jpg);
+    background-size: 100% 100%;
+}
+.bg_signup{
+    width: 100%;
+    height: 707px;
+    position: relative;
+    background-image: url(./image/bgimg1.jpg);
+    background-size: 100% 100%;
+    
+}
+/* .bgimgLogin{
+    width: 100%;
+    height: 707px;
+    position: relative;
+    background-image: url(./image/bgimg2.jpg);
+    background-size: 100% 100%;
+}
+.bgimgSignup{
+    width: 100%;
+    height: 707px;
+    position: relative;
+    background-image: url(./image/bgimg1.jpg);
+    background-size: 100% 100%;
+} */
+.c1{
+    width: 90%;
+    height: 600px;
+    position: absolute;
+    top: 7%;
+    padding: 10px;
+    left: 5%;
+    /* opacity: 0.6;    m */
+}
+center{
+    font-size: 40px; 
+}
+#logo{
+    width: 30%; 
+    height:150px;
+    border-radius: 100%;
+    margin-left: 35%;
+}
+/* .text_color{ */
+    /* background-image: linear-gradient(brown,wheat,red,yellow,white); */
+    /* color:burlywood; */
+    /* background-color: blue; */
+    /* background: -webkit-linear-gradient(wheat,brown,blue,black,white,burlywood,yellow); */ 
+  /* -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  /* opacity: 0.8; */
+/* } */
+/* .bg{
+    background-color: antiquewhite;
+    opacity: 0.5;
+} */
+/* .bgColor{
+    background-color: chocolate;
+} */
+#navBgColor{
+    color:chocolate;
+}
+/* .custom-element {
+  color: $gray-100;
+  background-color: $dark;
+} */
+/* #bIntro{
+    
+    background-image: linear-gradient(to right,rgba(255, 0, 0, 0.808),rgb(243, 55, 55),rgba(240, 77, 77, 0.692),rgba(240, 77, 77, 0.692));
+    background-color: blue;
+    color: red;
+} */
+.bb{
+    background-image: linear-gradient(to right,rgba(255, 0, 0, 0.808),rgb(243, 55, 55),rgba(240, 77, 77, 0.692),rgba(240, 77, 77, 0.692));
+}
